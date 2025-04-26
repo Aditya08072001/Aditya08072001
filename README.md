@@ -5,6 +5,13 @@
 - 📫 How to reach me adityasakhare08@gmail.com
 
 
+
+
+
+Languages and Tools:
+aws bash docker figma gcp git grafana jenkins kubernetes linux mysql nginx photoshop python sqlite
+
+
 <!---
 Aditya08072001/Aditya08072001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
