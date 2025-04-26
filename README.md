@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Sakhare
-- 👀 I’m interested in learning nw technology
+- 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning Python for Devops
 - 💬 Ask me about DevOps , linux , AWS ,GIT
 - 📫 How to reach me adityasakhare08@gmail.com
