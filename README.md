@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Sakhare
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning Python for Devops
-- 💬 Ask me about DevOps , linux , AWS ,GIT
+- 💬 Ask me about DevOps , linux , AWS ,GIT , K8s, Docker
 - 📫 How to reach me adityasakhare08@gmail.com
 
 
